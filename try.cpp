@@ -9,5 +9,7 @@ int main(){
     {
         cout<<"Looping ke-"<<i+1<<endl;
     }
+
+    cout<<"from git";
     
 }
